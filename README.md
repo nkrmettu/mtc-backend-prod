@@ -1,2 +1,2 @@
-# mtc-backend-prod
-MTC python repo thru TF
+# This is a prod python repository for backend developers.
+## Infra was last modified by nkrmettu.
